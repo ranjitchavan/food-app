@@ -1,0 +1,22 @@
+{
+    "customerId": 2,
+    "name": "Jack",
+    "mobileNo": "9970109600",
+    "email": "jack@gmail.com",
+    "password": "password",
+    "cpassword": "cpassword"
+}
+
+{
+    
+    "mobileNo": "9970109600",
+    "password": "password"
+    
+}
+
+
+{
+    
+    "email": "jack@gmail.com",
+    "password": "password"
+}
